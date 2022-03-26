@@ -1,0 +1,4 @@
+NAMA = RIVA ZAHRA MEIRIZKA
+NIM = 6706213039
+saya menggunakan library linkedlist dan listIterator dari collections java, lalu saya membuata 2 class yaitu class main, listTugas sebagai pojo.
+Di dalam list tugas terdapat konstruktor dan getter, yg mana akan di panggil dari class main.lalu saya memnggunakan switch case untuk memisahkan menu menu yg berisi input tugas to-do-list, menghapus tugas, dan juga mendisplay keseluruhannya. List iterator tadi berfungsi mengeluarkan isi dari to do list, lalu untuk menghapus , saya juga menggunakan list iterator 
